@@ -21,7 +21,7 @@ function setup() {
 function draw() {
   background(0);
 
-  var total = 200;
+  var total = 75;
   var count = 0;
   var attempts = 0;
 
