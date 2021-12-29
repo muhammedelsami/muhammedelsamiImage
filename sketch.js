@@ -2,7 +2,7 @@ var circles;
 var img;
 
 function preload() {
-  img = loadImage("assets/photo3.jpg");
+  img = loadImage("assets/abdurrah.jpg");
 }
 
 function setup() {
