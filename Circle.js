@@ -7,7 +7,7 @@ function Circle(x, y, color) {
 
   this.grow = function () {
     if (this.growing) {
-      this.r += 2;
+      this.r += 5;
     }
   };
 
